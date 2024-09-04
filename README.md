@@ -11,3 +11,7 @@ El menu del juego nos permite jugar o leer las reglas del juego, se dispusieron 
 6. Si cae una ficha en una casilla donde habia una ficha de distinta letra, esta se va a la carcel
 7. En la meta debe dar un numero exacto sino los movimiento de más se retrocederán
 8. El juego termina cuando un jugador corone las dos fichas
+
+Para ejecutar el codigo, los participantes deberan escoger la opcion 1 para jugar, luego deberan ingresar sus nombres y dar enter, ahi empezará a lanzarse el dado al azar y según el numero podran empezar a seleccionar la ficha que desean mover para ganar.
+
+Explicación del codigo en video: https://www.loom.com/share/f47ab6bafded47dda1132e042b7b6e62
